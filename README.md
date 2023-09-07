@@ -1,5 +1,5 @@
 # Colab_Lite
-Script Lite buat untuk kebutuhan haram anda
+Script Lite ini dibuat untuk kebutuhan haram anda
 
 Usahakan untuk memakai script ini maksimal 12jam sehari
 
